@@ -1,1 +1,1 @@
-# Spring-MVC-Hibernate5-CRUD
+# SpringMVC5-Hibernate5-CRUD
